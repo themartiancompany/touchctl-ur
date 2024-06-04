@@ -1,0 +1,14 @@
+pkgbase = touchctl
+	pkgdesc = Touch control.
+	pkgver = 0.0.0.0.0.0.0.0.0.0.0.0.0.1.1
+	pkgrel = 1
+	url = https://github.com/themartiancompany/touchctl
+	arch = any
+	license = AGPL3
+	checkdepends = shellcheck
+	makedepends = make
+	depends = libcrash-bash
+	source = touchctl-03c6ea80a438c902f60d8370f3d0c253fab0d322.zip::https://github.com/themartiancompany/touchctl/archive/03c6ea80a438c902f60d8370f3d0c253fab0d322.zip
+	sha256sums = 82991b36ffd29223214199780fbf115c713e1dd83ffabba56d29c6cb58955e2a
+
+pkgname = touchctl
